@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-io-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../asp4j/commons-io-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
